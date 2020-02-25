@@ -1,3 +1,3 @@
 # Twitter Sentiment Analysis
-Current in progress
+Currently in progress
 
