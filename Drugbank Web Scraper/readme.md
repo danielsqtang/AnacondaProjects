@@ -5,9 +5,10 @@ It walks through the steps that I took while going through the challenge.
 
 Instructions for setting up the Flask api locally
 
-1. Open up terminal and navigate to the directory 'path/../Drugbank Web Scraper/api'
-2. Run the command 'python api.py' to launch the Flask api locally
-3. Query the api with the drug accession number. The result will return the targets of the drug, separated by commas.
+1. Download and unzip to directory of choice
+2. Open up terminal and navigate to the directory 'path/../Drugbank Web Scraper/api'
+3. Run the command 'python api.py' to launch the Flask api locally
+4. Query the api with the drug accession number. The result will return the targets of the drug, separated by commas.
 
 Examples queries from terminal:
 
