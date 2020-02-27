@@ -1,3 +1,3 @@
-# Twitter Sentiment Analysis
+# Repository for projects in Anaconda
 Currently in progress
 
