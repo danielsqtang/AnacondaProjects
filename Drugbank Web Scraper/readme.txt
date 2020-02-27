@@ -1,5 +1,8 @@
 Web Scraper + API Take-Home Challenge
 
+Web Scraper.ipynb holds the jupyternotebook that I used.
+It walks through the steps that I took while going through the challenge.
+
 Instructions for setting up the Flask api locally
 
 1. Open up terminal and navigate to the directory '../Drugbank Web Scraper/api
