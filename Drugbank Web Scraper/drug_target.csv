@@ -1,0 +1,55 @@
+,accession_number,drug_name,target_id,target_name
+0,DB00619,Imatinib,BE0004743,Breakpoint cluster region protein
+1,DB00619,Imatinib,BE0000453,Mast/stem cell growth factor receptor Kit
+2,DB00619,Imatinib,BE0001104,RET proto-oncogene
+3,DB00619,Imatinib,BE0001039,High affinity nerve growth factor receptor
+4,DB00619,Imatinib,BE0000853,Macrophage colony-stimulating factor 1 receptor
+5,DB00619,Imatinib,BE0000852,Platelet-derived growth factor receptor alpha
+6,DB00619,Imatinib,BE0001124,Epithelial discoidin domain-containing receptor 1
+7,DB00619,Imatinib,BE0000014,Tyrosine-protein kinase ABL1
+8,DB00619,Imatinib,BE0000205,Platelet-derived growth factor receptor beta
+9,DB01048,Abacavir,BE0004136,Reverse transcriptase/RNaseH
+10,DB01048,Abacavir,BE0009142,"HLA class I histocompatibility antigen, B-57 alpha chain"
+11,DB00173,Adenine,BE0000115,Adenine phosphoribosyltransferase
+12,DB00173,Adenine,BE0002007,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+13,DB00173,Adenine,BE0000702,Acetyl-CoA carboxylase 2
+14,DB00173,Adenine,BE0003786,Low molecular weight phosphotyrosine protein phosphatase
+15,DB00173,Adenine,BE0002791,Peroxisomal trans-2-enoyl-CoA reductase
+16,DB00173,Adenine,BE0002755,A/G-specific adenine glycosylase
+17,DB00173,Adenine,BE0002706,Nucleoside deoxyribosyltransferase-I
+18,DB00173,Adenine,BE0004323,SRSF protein kinase 2
+19,DB00173,Adenine,BE0002792,Holliday junction ATP-dependent DNA helicase RuvB
+20,DB00173,Adenine,BE0004796,DNA
+21,DB00173,Adenine,BE0001128,S-methyl-5'-thioadenosine phosphorylase
+22,DB00173,Adenine,BE0001229,Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+23,DB00734,Risperidone,BE0000451,5-hydroxytryptamine receptor 2A
+24,DB00734,Risperidone,BE0000756,Dopamine D2 receptor
+25,DB00734,Risperidone,BE0000501,Alpha-1A adrenergic receptor
+26,DB00734,Risperidone,BE0000581,Dopamine D3 receptor
+27,DB00734,Risperidone,BE0000389,Dopamine D4 receptor
+28,DB00734,Risperidone,BE0000575,Alpha-1B adrenergic receptor
+29,DB00734,Risperidone,BE0000659,5-hydroxytryptamine receptor 1D
+30,DB00734,Risperidone,BE0000442,Histamine H1 receptor
+31,DB00734,Risperidone,BE0000289,Alpha-2A adrenergic receptor
+32,DB00734,Risperidone,BE0000572,Alpha-2B adrenergic receptor
+33,DB00734,Risperidone,BE0000342,Alpha-2C adrenergic receptor
+34,DB00734,Risperidone,BE0000533,5-hydroxytryptamine receptor 2C
+35,DB00734,Risperidone,BE0000291,5-hydroxytryptamine receptor 1A
+36,DB00734,Risperidone,BE0000020,Dopamine D1 receptor
+37,DB00734,Risperidone,BE0000650,5-hydroxytryptamine receptor 7
+38,DB00218,Moxifloxacin,BE0000429,DNA topoisomerase 4 subunit A
+39,DB00218,Moxifloxacin,BE0000366,DNA gyrase subunit A
+40,DB00218,Moxifloxacin,BE0000742,DNA topoisomerase 2-alpha
+41,DB09095,Difluocortolone,BE0003201,Annexin A3
+42,DB09095,Difluocortolone,BE0000794,Glucocorticoid receptor
+43,DB01053,Benzylpenicillin,BE0004654,Penicillin-binding protein 3
+44,DB01053,Benzylpenicillin,BE0003894,Beta-lactamase TEM
+45,DB01053,Benzylpenicillin,BE0003645,Solute carrier family 22 member 8
+46,DB01053,Benzylpenicillin,BE0001018,Solute carrier family 15 member 1
+47,DB01053,Benzylpenicillin,BE0001134,Solute carrier family 15 member 2
+48,DB00274,Cefmetazole,BE0003577,Penicillin binding protein 2a
+49,DB00274,Cefmetazole,BE0000588,Penicillin-binding protein 1A
+50,DB00274,Cefmetazole,BE0000488,Penicillin-binding protein 1B
+51,DB00274,Cefmetazole,BE0002393,Peptidoglycan synthase FtsI
+52,DB00274,Cefmetazole,BE0002063,D-alanyl-D-alanine carboxypeptidase DacA
+53,DB00274,Cefmetazole,BE0003685,D-alanyl-D-alanine carboxypeptidase DacC
